@@ -1,0 +1,162 @@
+.header{
+  height: 55px;
+  display: flex;
+  flex-direction:row;
+  justify-content: space-between;
+  align-items: center;
+  
+  position: fixed;
+  top: 0px;
+  left:0px;
+  right: 0px;
+  background-color: white;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: gray;
+
+  z-index:100;
+}
+
+
+
+.left-section{
+  /* background-color: lightblue; */
+  /* width:150px; */
+  display: flex;
+  align-items: center;
+}
+.hamburger-menu{
+  height: 24px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+.youtube-logo{
+  height: 20px;
+}
+
+
+.middle-section{
+  display: flex;
+  flex: 1;
+  align-items: center;
+  /* background-color: lightpink; */
+  margin-left: 70px;
+  margin-right: 35px;
+  max-width: 500px;
+}
+.search-bar{
+  flex: 1;
+  height: 36px;
+  font-size: 16px;
+  padding-left: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  border-radius: 2px;
+  box-shadow: inset 1px 2px 5px rgba(0,0,0,0.15);
+  width: 0;  /* redimensioneaza pana la minim cand se redimensioneaza ferestra */
+}
+.search-bar::placeholder{
+  font-family: Roboto,Arial;
+  font-size: 16px;
+}
+
+
+.search-button{
+  height: 40px;
+  width: 60px;
+  margin-left: -1px;
+    /* background-color: gray; */
+}
+.search-button,
+.voice-search-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.search-button .tooltip,
+.voice-search-button .tooltip
+{
+  position: absolute;
+  background-color: gray;
+  color: white;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-radius: 2px;
+  font-size: 12px;
+
+  bottom: -30px;
+  left: 0px;
+  opacity: 0;
+  transition: opacity 0.15s;
+  pointer-events: none;
+  white-space: nowrap;
+}
+.search-button:hover .tooltip,
+.voice-search-button:hover .tooltip {
+  opacity: 1;
+}
+
+.search-icon{
+  height: 30px;
+  }
+
+.voice-search-button{
+  height: 40px;
+  width: 40px;
+  border-style: none;
+  border-radius: 20px;
+  margin-left: 4px;
+}
+.voice-icon{
+  height: 25px;
+  
+  
+}
+
+
+
+
+
+.right-section{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0; /* nu muta obiectele din flex la redimensionaera ferestrei  */
+  width:220px;
+  margin-right: 20px;
+}
+.upload-icon{
+  height: 24px;
+}
+.youtube-app-icon{
+  height: 24px;
+}
+.notification-icon{
+  height: 24px;
+}
+.notification-icon-container{
+  position:relative;
+}
+.notifications-count{
+  position:absolute;
+  top:-5px;
+  right:-5px;
+  color: white;
+  background-color: red;
+  font-family: Roboto, Arial;
+  font-size: 11px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  border-radius: 10px;
+}
+.chanell-user-icon{
+  height: 32px; 
+  border-radius: 16px;
+}

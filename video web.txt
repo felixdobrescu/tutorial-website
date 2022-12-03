@@ -1,0 +1,44 @@
+HTML CSS full course
+https://www.youtube.com/watch?v=G3e-cpL7ofc&list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6#t=1h52m18s
+
+IMAGES AND TEXTBOXES
+https://www.youtube.com/watch?v=G3e-cpL7ofc&list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6#t=2h11m14s
+
+CSS Display Property
+https://www.youtube.com/watch?v=G3e-cpL7ofc&list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6#t=2h25m43s
+
+The <div> Element
+https://www.youtube.com/watch?v=G3e-cpL7ofc&list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6#t=2h34m58s
+
+Nested Layouts Technique
+https://www.youtube.com/watch?v=G3e-cpL7ofc&list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6#t=2h46m55s
+
+CSS Grid
+https://www.youtube.com/watch?v=G3e-cpL7ofc&list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6#t=3h16m58s
+
+Flexbox
+https://www.youtube.com/watch?v=G3e-cpL7ofc&list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6#t=3h43m59s
+
+Nested Flexbox
+https://www.youtube.com/watch?v=G3e-cpL7ofc&list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6#t=4h15m21s
+
+CSS Position
+https://www.youtube.com/watch?v=G3e-cpL7ofc&list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6#t=4h44m36s
+
+Position Absolute and Relative
+https://www.youtube.com/watch?v=G3e-cpL7ofc&list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6#t=5h07m14s
+
+Finish de project
+https://www.youtube.com/watch?v=G3e-cpL7ofc&list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6#t=5h33m49s
+
+More CSS Feature
+https://www.youtube.com/watch?v=G3e-cpL7ofc&list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6#t=6h07m47s
+
+
+
+https://supersimple.dev/exercises/youtube
+
+
+
+
+
